@@ -1,0 +1,30 @@
+{
+  "name": "HXPhotoPicker",
+  "version": "3.2.1",
+  "summary": "照片/视频选择器 - 支持LivePhoto、GIF图片选择、自定义编辑照片/视频、3DTouch预览、浏览网络图片/网络视频 功能 - Imitation weibo photo/image picker - support for LivePhoto, GIF image selection, 3DTouch preview, browse the web image function",
+  "homepage": "https://github.com/SilenceLove/HXPhotoPicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SilenceLove": "294005139@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "http": "http://localhost:8086/frameworks/HXPhotoPicker/3.2.1/zip",
+    "type": "zip"
+  },
+  "frameworks": [
+    "UIKit",
+    "Photos",
+    "PhotosUI"
+  ],
+  "requires_arc": true,
+  "source_files": "bin_HXPhotoPicker_3.2.1/Headers/*",
+  "public_header_files": "bin_HXPhotoPicker_3.2.1/Headers/*.h",
+  "vendored_libraries": "bin_HXPhotoPicker_3.2.1/*.a",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」"
+}
