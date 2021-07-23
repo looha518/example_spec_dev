@@ -1,0 +1,58 @@
+{
+  "name": "IGListKit",
+  "version": "4.0.0",
+  "summary": "A data-driven UICollectionView framework.",
+  "homepage": "https://github.com/Instagram/IGListKit",
+  "documentation_url": "https://instagram.github.io/IGListKit",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n A data-driven UICollectionView framework for building fast and flexible lists.",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": "Instagram",
+  "social_media_url": "https://twitter.com/fbOpenSource",
+  "source": {
+    "http": "http://localhost:8086/frameworks/IGListKit/4.0.0/zip",
+    "type": "zip"
+  },
+  "dependencies": {
+    "IGListDiffKit": [
+      "= 4.0.0"
+    ]
+  },
+  "ios": {
+    "source_files": [
+      "Source/IGListDiffKit/Internal/*.h",
+      "Source/IGListKit/**/*.{h,m,mm}"
+    ],
+    "private_header_files": [
+      "Source/IGListDiffKit/Internal/*.h",
+      "Source/IGListKit/Internal/*.h"
+    ],
+    "frameworks": "UIKit"
+  },
+  "tvos": {
+    "source_files": [
+      "Source/IGListDiffKit/Internal/*.h",
+      "Source/IGListKit/**/*.{h,m,mm}"
+    ],
+    "private_header_files": [
+      "Source/IGListDiffKit/Internal/*.h",
+      "Source/IGListKit/Internal/*.h"
+    ],
+    "frameworks": "UIKit"
+  },
+  "osx": {
+    "source_files": "Source/IGListKit/IGListKit.h",
+    "frameworks": "Cocoa"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "9.0"
+  },
+  "libraries": "c++",
+  "pod_target_xcconfig": {
+    "CLANG_CXX_LANGUAGE_STANDARD": "c++11",
+    "CLANG_CXX_LIBRARY": "libc++"
+  },
+  "vendored_frameworks": "IGListKit.framework"
+}
