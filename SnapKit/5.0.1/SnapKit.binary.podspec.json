@@ -9,7 +9,7 @@
   },
   "social_media_url": "http://twitter.com/robertjpayne",
   "source": {
-    "http": "http://localhost:8086/frameworks/SnapKit/5.0.1/zip",
+    "http": "http://192.168.0.196:8086/frameworks/SnapKit/5.0.1/zip",
     "type": "zip"
   },
   "platforms": {

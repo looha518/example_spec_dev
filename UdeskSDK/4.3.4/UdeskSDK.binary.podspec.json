@@ -8,7 +8,7 @@
     "xuchen ": "xuc@udesk.cn"
   },
   "source": {
-    "http": "http://localhost:8086/frameworks/UdeskSDK/4.3.4/zip",
+    "http": "http://192.168.0.196:8086/frameworks/UdeskSDK/4.3.4/zip",
     "type": "zip"
   },
   "platforms": {

@@ -15,7 +15,7 @@
     "ios": "9.0"
   },
   "source": {
-    "http": "http://localhost:8086/frameworks/SwiftDate/6.3.1/zip",
+    "http": "http://192.168.0.196:8086/frameworks/SwiftDate/6.3.1/zip",
     "type": "zip"
   },
   "source_files": "Sources/**/*.swift",

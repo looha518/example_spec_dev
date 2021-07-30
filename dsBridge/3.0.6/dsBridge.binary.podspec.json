@@ -12,7 +12,7 @@
     "ios": "8.0"
   },
   "source": {
-    "http": "http://localhost:8086/frameworks/dsBridge/3.0.6/zip",
+    "http": "http://192.168.0.196:8086/frameworks/dsBridge/3.0.6/zip",
     "type": "zip"
   },
   "source_files": "dsbridge/*",

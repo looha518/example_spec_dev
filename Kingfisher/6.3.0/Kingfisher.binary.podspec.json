@@ -20,7 +20,7 @@
     "ios": "10.0"
   },
   "source": {
-    "http": "http://localhost:8086/frameworks/Kingfisher/6.3.0/zip",
+    "http": "http://192.168.0.196:8086/frameworks/Kingfisher/6.3.0/zip",
     "type": "zip"
   },
   "source_files": [

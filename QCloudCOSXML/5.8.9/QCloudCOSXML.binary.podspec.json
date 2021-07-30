@@ -8,7 +8,7 @@
     "QCloud Terminal Team": "QCloudTerminalTeam"
   },
   "source": {
-    "http": "http://localhost:8086/frameworks/QCloudCOSXML/5.8.9/zip",
+    "http": "http://192.168.0.196:8086/frameworks/QCloudCOSXML/5.8.9/zip",
     "type": "zip"
   },
   "pod_target_xcconfig": {

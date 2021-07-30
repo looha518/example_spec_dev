@@ -10,7 +10,7 @@
     "kishikawa katsumi": "kishikawakatsumi@mac.com"
   },
   "source": {
-    "http": "http://localhost:8086/frameworks/KeychainAccess/4.2.2/zip",
+    "http": "http://192.168.0.196:8086/frameworks/KeychainAccess/4.2.2/zip",
     "type": "zip"
   },
   "social_media_url": "https://twitter.com/k_katsumi",

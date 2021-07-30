@@ -14,7 +14,7 @@
     "ApolloZhu": "public-apollonian@outlook.com"
   },
   "source": {
-    "http": "http://localhost:8086/frameworks/EFQRCode/6.1.0/zip",
+    "http": "http://192.168.0.196:8086/frameworks/EFQRCode/6.1.0/zip",
     "type": "zip"
   },
   "social_media_url": "https://twitter.com/EyreFree777",

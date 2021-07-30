@@ -12,7 +12,7 @@
     "Harley-xk": "harley.gb@foxmail.com"
   },
   "source": {
-    "http": "http://localhost:8086/frameworks/MaLiang/2.9.2/zip",
+    "http": "http://192.168.0.196:8086/frameworks/MaLiang/2.9.2/zip",
     "type": "zip"
   },
   "swift_versions": [

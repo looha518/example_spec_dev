@@ -12,7 +12,7 @@
   },
   "swift_versions": "5.0",
   "source": {
-    "http": "http://localhost:8086/frameworks/JXSegmentedView/1.2.7/zip",
+    "http": "http://192.168.0.196:8086/frameworks/JXSegmentedView/1.2.7/zip",
     "type": "zip"
   },
   "frameworks": "UIKit",

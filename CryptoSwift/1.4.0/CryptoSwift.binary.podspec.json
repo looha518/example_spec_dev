@@ -2,7 +2,7 @@
   "name": "CryptoSwift",
   "version": "1.4.0",
   "source": {
-    "http": "http://localhost:8086/frameworks/CryptoSwift/1.4.0/zip",
+    "http": "http://192.168.0.196:8086/frameworks/CryptoSwift/1.4.0/zip",
     "type": "zip"
   },
   "summary": "Cryptography in Swift. SHA, MD5, CRC, PBKDF, Poly1305, HMAC, CMAC, HDKF, Scrypt, ChaCha20, Rabbit, Blowfish, AES.",

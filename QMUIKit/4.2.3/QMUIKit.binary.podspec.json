@@ -9,7 +9,7 @@
     "qmuiteam": "contact@qmuiteam.com"
   },
   "source": {
-    "http": "http://localhost:8086/frameworks/QMUIKit/4.2.3/zip",
+    "http": "http://192.168.0.196:8086/frameworks/QMUIKit/4.2.3/zip",
     "type": "zip"
   },
   "social_media_url": "https://github.com/Tencent/QMUI_iOS",
